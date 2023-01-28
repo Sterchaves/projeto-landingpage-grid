@@ -45,7 +45,7 @@ color: coral;
 /*HERO*/
 .hero {
     grid-area: hero;
-    background: url(./images/lemons.jpg) center center no-repeat;
+    background: url(../images/lemons.jpg) center center no-repeat;
     height: 89vh;
     background-size: cover;
     display: flex;
