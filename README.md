@@ -8,4 +8,5 @@ Issues: It was everything working, until I add in the repository using git bash!
 2. The page title instead of reloading in the main page, it redirection to a page not found.
 
 
+Update 2 hours after: The images uploaded, now I just need to set the logo.
 # projeto-landingpage-grid
