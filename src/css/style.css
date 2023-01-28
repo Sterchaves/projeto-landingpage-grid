@@ -251,6 +251,13 @@ margin: 0 auto;
     margin-bottom: 20px;
 }
 
+.footer h4 a{
+    transition: 0.3s;
+}
+.footer h4 a:hover{
+    color: #fff;
+}
+
 .footer nav{
     margin:50px 0;
 }
